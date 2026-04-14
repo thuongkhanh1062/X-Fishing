@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.2.0 d001Mar-04-2026 at 23:19:13 }
+{ Using PSTWRITER 17.2.0 d001Apr-14-2026 at 20:42:23 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='ESP32_X_FISHING';
@@ -441,9 +441,9 @@ PART_NAME
  D4 'LED_D0603_0603':;
 
 SECTION_NUMBER 1
- '@ESP32_X_FISHING.TOP(SCH_1):LED@ESP32_X_FISHING.LED(SCH_1):INS15870027@BJT_FET.LED.NORMAL(CHIPS)':
- C_PATH='@esp32_x_fishing.top(sch_1):led@esp32_x_fishing.led(sch_1):ins15870027@bjt_fet.\led.normal\(chips)',
- P_PATH='@esp32_x_fishing.top(sch_1):page1_led@esp32_x_fishing.led(sch_1):page1_ins15870027@bjt_fet.\led.normal\(chips)',
+ '@ESP32_X_FISHING.TOP(SCH_1):LED@ESP32_X_FISHING.LED(SCH_1):INS15934334@BJT_FET.LED.NORMAL(CHIPS)':
+ C_PATH='@esp32_x_fishing.top(sch_1):led@esp32_x_fishing.led(sch_1):ins15934334@bjt_fet.\led.normal\(chips)',
+ P_PATH='@esp32_x_fishing.top(sch_1):page1_led@esp32_x_fishing.led(sch_1):page1_ins15934334@bjt_fet.\led.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
@@ -671,9 +671,9 @@ PART_NAME
  R16 'RES_R0603_2.2K':;
 
 SECTION_NUMBER 1
- '@ESP32_X_FISHING.TOP(SCH_1):LED@ESP32_X_FISHING.LED(SCH_1):INS15870007@RESISTOR.RES.NORMAL(CHIPS)':
- C_PATH='@esp32_x_fishing.top(sch_1):led@esp32_x_fishing.led(sch_1):ins15870007@resistor.\res.normal\(chips)',
- P_PATH='@esp32_x_fishing.top(sch_1):page1_led@esp32_x_fishing.led(sch_1):page1_ins15870007@resistor.\res.normal\(chips)',
+ '@ESP32_X_FISHING.TOP(SCH_1):LED@ESP32_X_FISHING.LED(SCH_1):INS15934364@RESISTOR.RES.NORMAL(CHIPS)':
+ C_PATH='@esp32_x_fishing.top(sch_1):led@esp32_x_fishing.led(sch_1):ins15934364@resistor.\res.normal\(chips)',
+ P_PATH='@esp32_x_fishing.top(sch_1):page1_led@esp32_x_fishing.led(sch_1):page1_ins15934364@resistor.\res.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
